@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CalculatorFX
+comment1.params=primaryStage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=
+comment2.target=void\ bCode()
+comment3.params=e
+comment3.target=void\ btncode1(javafx.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ btncode2(javafx.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ btncode3(javafx.event.ActionEvent)
+comment6.params=e
+comment6.target=void\ btncode4(javafx.event.ActionEvent)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
